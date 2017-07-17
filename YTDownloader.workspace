@@ -2,13 +2,13 @@
 <CodeLite_Workspace Name="YTDownloader" Database="" Version="10.0.0">
   <Project Name="YTDownloader" Path="YTDownloader/YTDownloader.project" Active="Yes"/>
   <BuildMatrix>
-    <WorkspaceConfiguration Name="Debug" Selected="yes">
+    <WorkspaceConfiguration Name="Debug_Linux" Selected="yes">
       <Environment/>
-      <Project Name="YTDownloader" ConfigName="Debug"/>
+      <Project Name="YTDownloader" ConfigName="Debug_Linux"/>
     </WorkspaceConfiguration>
-    <WorkspaceConfiguration Name="Release" Selected="yes">
+    <WorkspaceConfiguration Name="Release_Linux" Selected="yes">
       <Environment/>
-      <Project Name="YTDownloader" ConfigName="Release"/>
+      <Project Name="YTDownloader" ConfigName="Release_Linux"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
